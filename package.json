@@ -80,7 +80,7 @@
       "BigInt"
     ]
   },
-  "engine": {
-    "node": ">=6.3.0"
+  "engines": {
+    "node": ">=12"
   }
 }

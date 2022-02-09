@@ -21,7 +21,7 @@ ADD package.json /app
 
 RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && \
     . /root/.nvm/nvm.sh && \
-    for v in v6.17.1 v14.16.0; do \
+    for v in v12.0.0 v14.16.0; do \
         nvm install $v; \
     done ; \
     npm install
