@@ -1,6 +1,6 @@
 {
-  "name": "dbus-next",
-  "version": "0.10.2",
+  "name": "@astrohaus/dbus-next",
+  "version": "1.0.0",
   "keywords": [
     "dbus",
     "dcop",
@@ -25,8 +25,8 @@
   "types": "types.d.ts",
   "maintainers": [
     {
-      "name": "Tony Crisci",
-      "email": "tony@dubstepdish.com"
+      "name": "Alexey Ryabov",
+      "email": "lesha_12_01@mail.ru"
     }
   ],
   "license": "MIT",

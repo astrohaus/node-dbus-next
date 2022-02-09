@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.0.0
+
+This release starts to use semantic versioning. It includes new features
+and bugfixes.
+
+* Add high level client
+* Fix typo in handling signal for NameOwnerChanged
+* Remove unused dependencies
+* Add package-lock.json
+
 ## v0.10.2
 
 This is a hotfix release for a bug in the system message bus.
