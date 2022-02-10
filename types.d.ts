@@ -1,5 +1,4 @@
-
-declare module 'dbus-next' {
+declare module '@astrohaus/dbus-next' {
     import { EventEmitter } from "events";
 
     export type ObjectPath = string;
