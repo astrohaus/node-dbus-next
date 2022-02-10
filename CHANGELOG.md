@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1
+
+* Change dbus-next to @astrohaus/dbus-next
+
 ## v1.0.0
 
 This release starts to use semantic versioning. It includes new features
